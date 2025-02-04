@@ -2,4 +2,4 @@
 Repositorio para la clase Magistral de Inteligencia Artificial 1
 Luis David Garcia Alay 201612511
 
-[Tarea1](/Tarea1/pag.html)
+[Tarea1](/Tarea1/index.html)
